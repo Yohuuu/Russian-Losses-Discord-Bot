@@ -25,7 +25,7 @@ namespace RussiaLossesBot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "MTAyNDMyMjc3ODY3NTAzNjIwMA.GDVu4E.kQ2FZECi6LgOEXgCLF_vE4eKERJkUhKNjht7bw";
+            string token = "";
 
             _client.Log += client_Log;
 
