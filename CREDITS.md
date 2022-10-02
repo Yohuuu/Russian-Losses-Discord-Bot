@@ -2,6 +2,4 @@ Discord.NET library that I used to build this bot: https://github.com/discord-ne
 
 Handling JSON: https://github.com/JamesNK/Newtonsoft.Json
 
-"#StandWithUkraine": https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset
-
 Data: https://russianwarship.rip/
