@@ -4,4 +4,4 @@ Handling JSON: https://github.com/JamesNK/Newtonsoft.Json
 
 "#StandWithUkraine": https://github.com/PetroIvaniuk/2022-Ukraine-Russia-War-Dataset
 
-Data: russianwarship.rip
+Data: https://russianwarship.rip/
